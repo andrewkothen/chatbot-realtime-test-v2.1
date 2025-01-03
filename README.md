@@ -1,6 +1,6 @@
 # chatbot-v2
 
-To Initialize run:
+To Initialize:
 
 rm -rf node_modules package-lock.json
 npm install
